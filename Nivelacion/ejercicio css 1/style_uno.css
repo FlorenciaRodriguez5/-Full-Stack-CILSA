@@ -1,0 +1,28 @@
+*{ 
+    margin:0px;
+    padding: 0px;
+}
+
+ul{
+    padding-left:25px;
+    Padding-top:25px;
+}
+
+li{
+    padding-bottom: 1%;
+}
+
+body{
+    background-color: grey;
+}
+
+.black{
+    background-color: black;
+    height: 250px;
+}
+
+.pink{
+    background-color: rgb(212, 46, 74);
+    color:rgb(212, 46, 74);
+}
+

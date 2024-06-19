@@ -1,0 +1,55 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+.container{
+    background-color: rgb(43, 43, 43);
+    color:rgb(182, 25, 85);
+    text-align: start;
+    height: 150px;
+    font-size: xx-large;
+}
+
+.container2{
+    background-color:rgb(182, 25, 85) ;
+    color: rgb(182, 25, 85);
+}
+
+.contenedor{
+    display: flex;
+    height: 400px;
+  
+}
+
+.div1{
+    background-color: rgb(209, 119, 134);
+    width: 400px;
+    padding: 5%;
+}
+li{
+    padding-bottom: 5%;
+}
+
+.div2{ 
+    background-color: grey;
+    color: rgb(182, 25, 85);
+    width: 800px;
+    text-align: center;
+    font-size: x-large;
+    border-color: rgb(32, 12, 12);
+    border-style: dashed;
+    border-width: 0.1cap;
+}
+
+.div3{
+    background-color: rgb(97, 97, 97);
+    color: rgb(97, 97, 97);
+    width: 400px;
+}
+
+.footer{
+    background-color: rgb(77, 77, 77);
+    width: auto;
+    height: 2em;
+}

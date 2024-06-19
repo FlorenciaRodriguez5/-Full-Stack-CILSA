@@ -1,0 +1,45 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+header{
+    background-size: cover;
+    margin:0px ;
+    padding: 0px;
+}
+body{
+    margin:0px;
+    padding: 0px;
+
+}
+.body{
+    display: flex;
+    align-content: space-around;
+ }
+.container1{
+    background-color: rgb(29, 29, 58);
+    margin:0px ;
+    padding: 0%;
+    color: rgb(29, 29, 58);
+}
+
+.container3{
+    float:left;
+    background-color: rgb(226, 43, 98);
+    color: rgb(226, 43, 98);
+    width: 1350px;
+
+}
+
+.container2{
+    background-color: grey;
+    color:grey;
+    height: 400px;
+    width: 300px;
+}
+
+.container4{
+    background-color: rgb(29, 29, 58);
+    color: rgb(29, 29, 58);
+}
