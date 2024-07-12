@@ -5,16 +5,15 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #000000;
+    background-color: #696969;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color:#ced4da;
 }
 
 .form{
-    border: 1px solid #c7c7c7;
+    border: 1px groove #919191;
     border-radius: 0.25rem;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -23,7 +22,7 @@ body {
 
 .body {
     padding: 1%;
-    background-color: rgb(39, 39, 39);
+    background-color: rgb(233, 233, 233);
     margin: 0%;
     width: 25em;
 
@@ -37,19 +36,17 @@ label {
 input {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ced4da;
+    border: 1px groove #9b9b9b;
     border-radius: 0.25rem;
     box-sizing: border-box;
-    background-color: #383838;
 }
-#date{
-    color: #ced4da;
-}
+
 button {
-    padding: 10px;
+    padding: 15px;
     font-size: 16px;
-    color: #000000;
-    background-color: #e2b901;
+    color: #ffffff;
+    background-color: #797979;
+    border: groove;
     border-radius: 0.25rem;
     cursor: pointer;
     width: 100%;
@@ -59,4 +56,9 @@ button {
     display: flex;
     width: 100%;
     max-width: 500px;
+}
+.estilos{
+    display:flex;
+    align-content: inline;
+    width: 350px;
 }
